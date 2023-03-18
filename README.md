@@ -1,16 +1,13 @@
-### Hi 👋 There
+### Hi 👋 I am Gaurav Chakraborty
 
-<!--
-**gvxkzy/gvxkzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about WordPress, Gutenberg
 
-Here are some ideas to get you started:
+📫 How to reach me gvxkzy@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact My perfect day would start with code
+
+Connect with me:
+im_sayaan meetsayan iamsayaan
+
+Languages and Tools:
+/bootstarp bulma css3 firebase git gulp html5 javascript materialize mysql nextjs php react sass webpack
